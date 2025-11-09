@@ -108,9 +108,9 @@ Shows process sorting by CPU and memory usage using `--sort=cpu` or `--sort=mem`
 ### 🧨 Day 4 – Kill Process Feature
 Interactive commands (`k PID`, `K PID`) to terminate or force-kill a process.
 
-![Day 4 Output 1](screenshots/Day__4/D4_Code_w_OP_1.png)  
-![Day 4 Output 2](screenshots/Day__4/D4_Code_w_OP_2.png)  
-![Day 4 Output 3](screenshots/Day__4/D4_Code_w_OP_3.png)
+![Day 4 Output 1](screenshots/Day_4/D4_Code_w_OP_1.png)  
+![Day 4 Output 2](screenshots/Day_4/D4_Code_w_OP_2.png)  
+![Day 4 Output 3](screenshots/Day_4/D4_Code_w_OP_3.png)
 
 ---
 
